@@ -1,1 +1,1 @@
-Work: node ../index.jsWork: node ./index.js
+Work: node ./index.js
