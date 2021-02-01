@@ -1,0 +1,1 @@
+Work: node ../index.js
